@@ -1,0 +1,24 @@
+body{
+    margin: 0 auto;
+    width: 80vw;
+    font-family: sans-serif;
+}
+
+header{
+    background: url('img/img.jpg');
+    background-size: cover;
+    /* margin: 0 10% 0 10%;
+    padding: 60px 40px ; */
+}
+
+/* header section:first-child{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
